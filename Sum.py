@@ -3,8 +3,8 @@ is_negated = False
 if number < 0:
     number = -number
     is_negated = True
-sum_ = 0
-i = 1
+sum_ = 1
+i = 2
 while i <= number:
     sum_ += i
     i += 1
